@@ -1,5 +1,5 @@
 # docker-spawn
-nde.js ChildProcess.spawn for running docker containers
+Node.js ChildProcess.spawn for running docker containers
 
 # usage
 
